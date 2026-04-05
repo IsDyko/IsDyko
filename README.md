@@ -2,17 +2,17 @@
 <h3 align="center">A passionate developper from Switzerland</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif">
 
-- 🔭 I’m currently working on [an WeatherApp](https://github.com/IsDyko/WeatherApp)
+- 🔭 I’m currently working on a Homelab
 
-- 🌱 I’m currently learning **React and TypeScript**
+- 🌱 I’m currently learning **C and C++**
 
-- 👯 I'm working too **an FPS game in Unity**
+- 👯 I'm working too **an survival game on Unity**
 
 - 🤝 I’m looking for a **job in IT**
 
 - 👨‍💻 All of my projects are available at *"coming soon"*
 
-- 💬 Ask me about **C# or Swift**
+- 💬 Ask me about **C#**
 
 - 📫 How to reach me **diogopro1400@gmail.com**
 
